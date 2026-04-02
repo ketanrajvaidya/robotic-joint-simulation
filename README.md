@@ -3,6 +3,8 @@
 **Author: Ketan Rajvaidya**
 
 ---
+## Demo video 
+watch demo video here ("C:\Users\rajva\Videos\Captures\GitHub - ketanrajvaidya_robotic-joint-simulation_ Actuated Joint System Modeling and Mechatronic Behavior Simulation 2026-04-02 13-01-35.mp4")
 
 ## Project Overview
 
