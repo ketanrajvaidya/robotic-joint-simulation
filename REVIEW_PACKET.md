@@ -5,6 +5,21 @@
 
 ---
 
+## DEMO VIDEO
+
+**Link:** https://www.youtube.com/watch?v=I4rN7o3yBPE
+
+**Contents covered in video:**
+- Phase 1: System expansion — hip + knee leg assembly
+- Phase 2: Forward kinematics and foot trajectory graphs
+- Phase 3: Coupled dynamics demonstration
+- Phase 4: Coordinated motion sequences (step cycle + crouch)
+- Phase 5: Load distribution and torque utilization analysis
+- Phase 6: Failure propagation — knee stall, overheat, noise jitter
+- Phase 7: Master dashboard walkthrough and system summary
+
+---
+
 ## 1. SYSTEM DEFINITION
 
 ### What Was Built
