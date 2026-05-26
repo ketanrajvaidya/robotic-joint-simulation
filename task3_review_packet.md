@@ -7,7 +7,8 @@
 
 ## DEMO VIDEO
 
-**Link:** *(paste your YouTube link here before submitting)*
+**Link:** https://www.youtube.com/watch?v=jtKhWAt81vM 
+
 
 **Contents covered in video:**
 - Phase 1: Quadruped system assembly (4 legs + body)
